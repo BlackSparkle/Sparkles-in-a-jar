@@ -1,2 +1,2 @@
 # Sparkles-in-a-jar
-Site for artist (opensource)
+Site for artists (opensource)
